@@ -86,30 +86,6 @@ Software company focused on building innovative digital products.
 
 ---
 
-## GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=abhiraj-devs&show_icons=true&theme=tokyonight" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhiraj-devs&layout=compact&theme=tokyonight" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhiraj-devs&theme=tokyonight" />
-
-</div>
-
----
-
-## GitHub Trophy
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=abhiraj-devs&theme=algolia&margin-w=15&margin-h=15" />
-
-</div>
-
----
-
 ## Connect With Me
 
 <p align="center">
