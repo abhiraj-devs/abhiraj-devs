@@ -1,106 +1,132 @@
 <div align="center">
 
-# Abhi Raj
+# Hi 👋, I'm Abhi Raj
 
-### Software Developer • Cyber Security Enthusiast • Founder of Zylabix
+### Software Developer • Cyber Security Enthusiast • Computer Science Student
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Software+Developer;Cyber+Security+Enthusiast;Digital+Forensics+Learner;AI+%7C+Web+Development+%7C+Cloud+Computing;Building+Technology+That+Creates+Impact" alt="Typing SVG" />
 
 <p>
-Building software that solves real-world problems through innovation, development, and technology.
+<a href="https://abhi-raj-portfolio.web.app/">Portfolio</a> •
+<a href="https://linkedin.com/in/abhiraj-dev">LinkedIn</a> •
+<a href="mailto:abhirajcsecec@gmail.com">Email</a>
 </p>
-
-[Portfolio](https://abhi-raj-portfolio.web.app/) •
-[LinkedIn](https://linkedin.com/in/abhiraj-dev) •
-[GitHub](https://github.com/abhiraj-devs)
 
 </div>
 
 ---
 
-## About Me
+## 🚀 About Me
 
-- Computer Science Engineering Student
-- Founder of **Zylabix**
-- Interested in **Software Development, AI, Cyber Security, Cloud Computing, and Digital Forensics**
-- Currently building projects that combine technology with real-world impact
-- Open to internships, collaborations, and innovative projects
+```yaml
+Name: Abhi Raj
+Education: B.Tech Computer Science Engineering
+Focus:
+  - Software Development
+  - Cyber Security
+  - Digital Forensics
+  - Artificial Intelligence
+  - Cloud Computing
+
+Currently:
+  - Building impactful software projects
+  - Learning advanced cyber security concepts
+  - Contributing to open-source projects
+```
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 ### Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,html,css" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,python,java,javascript,html,css" />
 </p>
 
-### Frameworks & Technologies
+### Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,tailwind,firebase,mongodb,mysql,flutter,dotnet" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,firebase,mongodb,mysql" />
 </p>
 
-### Tools & Platforms
+### Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,aws,gcp,figma,vscode" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,figma" />
 </p>
 
 ---
 
-## Featured Projects
+## 🔐 Cyber Security
 
-### AI Voice Assistant
-An intelligent voice assistant capable of executing commands, processing user requests, and improving productivity.
-
-### SkillShare Board
-A platform that connects learners and mentors to share knowledge and technical skills.
-
-### NaviSafe
-A safety-focused navigation solution designed to provide smarter and more secure travel experiences.
-
-### Zylabix
-Software company focused on building innovative digital products.
-
-**Motto:**  
-> Innovate. Develop. Elevate.
-
----
-
-## Cyber Security & Forensics
-
-- Cyber Security Workshop Participant
-- Cyber Forensics Internship Experience
-- Digital Investigation Fundamentals
-- Network Security Concepts
+- Digital Forensics
+- Network Security Fundamentals
+- Cyber Threat Analysis
+- Security Awareness
 - Ethical Hacking Fundamentals
 
 ---
 
-## Certifications
+## 📌 Featured Projects
 
-- Personality Development Training Programme (Kerala Knowledge Economy Mission)
-- Introduction to Cyber Security
-- PyGame Development using GUIVI
-- Cyber Security Workshop – College of Engineering Aranmula
+### 🎙️ AI Voice Assistant
+Voice-controlled assistant designed to automate tasks and improve productivity.
+
+### 📚 SkillShare Board
+Platform connecting learners and mentors for collaborative learning.
+
+### 🛡️ NaviSafe
+Smart navigation solution focused on improving safety and awareness.
 
 ---
 
-## Connect With Me
+## 📊 GitHub Analytics
 
 <p align="center">
-<a href="mailto:abhirajcsecec@gmail.com">Email</a> •
-<a href="https://linkedin.com/in/abhiraj-dev">LinkedIn</a> •
-<a href="https://github.com/abhiraj-devs">GitHub</a> •
-<a href="https://abhi-raj-portfolio.web.app/">Portfolio</a>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=abhiraj-devs&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhiraj-devs&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhiraj-devs&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abhiraj-devs&theme=algolia&no-frame=true&margin-w=10&margin-h=10" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhiraj-devs/abhiraj-devs/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://github.com/abhiraj-devs">
+  <img src="https://skillicons.dev/icons?i=github" />
+</a>
+<a href="https://linkedin.com/in/abhiraj-dev">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
 </p>
 
 ---
 
 <div align="center">
 
-### "Innovate • Develop • Elevate"
+### 💡 "Code • Learn • Secure • Innovate"
 
-Building the future one project at a time.
+<img src="https://komarev.com/ghpvc/?username=abhiraj-devs&label=Profile%20Views&color=0e75b6&style=flat" />
 
 </div>
