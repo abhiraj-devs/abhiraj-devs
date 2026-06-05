@@ -11,7 +11,7 @@
 
 ### 👨‍💻 Frontend Developer · Cyber Security Enthusiast · Builder
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Computer+Science+Student+%40+COE+Chengannur;Frontend+Developer+%7C+React+%7C+Flutter;Cyber+Security+Enthusiast;Always+learning%2C+always+building+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Computer+Science+Student+%40+CE+Chengannur;Frontend+Developer+%7C+React+%7C+Flutter;Cyber+Security+Enthusiast;Always+learning%2C+always+building+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-abhi--raj--portfolio.web.app-00D9FF?style=for-the-badge&logoColor=white)](https://abhi-raj-portfolio.web.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-abhiraj--dev-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhiraj-dev)
@@ -104,6 +104,8 @@ A platform for people to share and discover skills within communities — connec
 
 **Stack:** React · Firebase · Node.js
 
+**🔗 [Live Demo](https://skillsharer.vercel.app/)**
+
 </td>
 </tr>
 <tr>
@@ -113,6 +115,8 @@ A platform for people to share and discover skills within communities — connec
 A safety-first navigation application with real-time alerts and threat detection features, designed with user safety in mind.
 
 **Stack:** Flutter · Google Maps API · Firebase
+
+**🔗 [Live Demo](https://navisafeapp.vercel.app/)**
 
 </td>
 <td width="50%">
@@ -159,7 +163,6 @@ A sleek, animated portfolio showcasing my work and skills — built and deployed
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhiraj-devs&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff" width="40%" />
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=abhiraj-devs&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
